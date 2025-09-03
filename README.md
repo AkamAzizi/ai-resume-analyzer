@@ -20,7 +20,13 @@ Built with **FastAPI, scikit-learn, spaCy** (backend) and **React + TypeScript +
 
 ## Demo
 
-_(Add screenshots here — UI with file upload + results)_
+### Upload Resume + Job Description
+
+![Upload Screen](assets/upload.png)
+
+### Analysis Results
+
+![Result Screen](assets/results.png)
 
 ---
 
