@@ -1,0 +1,59 @@
+# ----------------
+# Python ignores
+# ----------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+.mypy_cache/
+.pytest_cache/
+.cache/
+.coverage
+coverage.xml
+*.log
+
+# Virtual environments
+.venv/
+env/
+venv/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# ----------------
+# Node / React ignores
+# ----------------
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+
+# Build output
+dist/
+build/
+.vite/
+*.local
+
+# ----------------
+# IDE / Editor ignores
+# ----------------
+.vscode/
+.idea/
+*.swp
+*.swo
+*.DS_Store
+Thumbs.db
+
+# ----------------
+# Environment / Config files
+# ----------------
+.env
+.env.*
