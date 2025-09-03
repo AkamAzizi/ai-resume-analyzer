@@ -136,10 +136,6 @@ This project simulates that process, helping job seekers tailor their resumes fo
 
 ---
 
-## License
-
-MIT License – feel free to use and adapt.
-
 ---
 
 ## API
